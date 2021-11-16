@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TobCraft3521
-- 👀 I’m interested in Discord Bots
+- 👀 I’m interested in minecraftplugins and websides
 - 🌱 I’m currently learning Java, Html, Css, JavaScript
-- 📫 How to reach me: Discord: TobCraft3521#0484 , my Webside: TobCraft.xyz
+- 📫 How to reach me: Discord: TobCraft3521#0484 , my webside: TobCraft.xyz
