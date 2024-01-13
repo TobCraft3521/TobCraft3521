@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TobCraft3521
-- 👀 I’m interested in websites, apps and games
-- 🌱 I’m currently learning Html, Css, JavaScript => React, Vue, Node.js and more 
+- 👀 I’m interested in websites, apps, games and backend including some AI
+- 🌱 I’m currently learning Next.js, Node.js and more
 - 📫 How to reach me: Discord: TobCraft3521#0484 , my webside: https://www.TobCraft.xyz
