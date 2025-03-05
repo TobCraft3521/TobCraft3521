@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tobias
-- 👀 I’m interested in fullstack webapps, ai, next.js and more
-- 🌱 I’m currently learning Next.js, lots of libraries, web design, system design and more
-- 📫 How to reach me: Discord: TobCraft3521#0484, my website: https://www.tobcraft.xyz
+- 👋 Hey, It's Tobias
+- 📫 Say hello: tobias@tobcraft.xyz (human only email)
+- 👀 I’m interested in fullstack webapps and real life (just an excuse for my commit history 🟩⬛🟩)
+- 🌱 I’m currently learning fullstack development: webdesign, complex apps, cloud, ci/cd and everything around SaaS: marketing, payments.
+- ✨ Check out my repos and maybe give them a star ❤️
 
-Feel free to make pull requests on any of my repositories! <br>
-And of course you'll star my repos right? 🥺
+Feel free to fork and make pull requests to any of my repos! Would be very happy about contributions and every single star ✨
